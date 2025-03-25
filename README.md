@@ -1,5 +1,3 @@
-Aqui está o texto corrigido e ajustado para o README do seu projeto:
-
 ---
 
 **Projeto: Guia de Países**  
